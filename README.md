@@ -81,14 +81,6 @@
   <strong>Trivia Quiz:</strong> What year was the first Bitcoin mined?
 </p>
 
-<hr style="border: 1px solid #4A90E2;">
-
-<h3 align="center" style="color: #4A90E2;">📸 Visual Interests</h3>
-<p align="center">
-  <img src="https://example.com/library.jpg" alt="Library" width="300" style="border-radius: 10px; margin: 10px;" />
-  <img src="https://example.com/coins.jpg" alt="Numismatics" width="300" style="border-radius: 10px; margin: 10px;" />
-  <img src="https://example.com/tech-gadget.jpg" alt="Tech Gadget" width="300" style="border-radius: 10px; margin: 10px;" />
-</p>
 
 <hr style="border: 1px solid #4A90E2;">
 
