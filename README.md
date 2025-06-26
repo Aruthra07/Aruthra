@@ -71,15 +71,7 @@
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/gatsby/gatsby-original.svg" height="40" />
   <img src="https://www.svgrepo.com/show/303229/microsoft-sql-server-logo.svg" height="40" />
   <img src="https://www.chartjs.org/media/logo-title.svg" height="40" />
-</p>
 
-<hr style="border: 1px solid #4A90E2;">
-
-<h3 align="center" style="color: #4A90E2;">🎮 Fun & Games</h3>
-<p align="center" style="font-size: 1.1em;">
-  <strong>Mini Coding Challenge:</strong> Can you write a function in Python that reverses a string? <br>
-  <strong>Trivia Quiz:</strong> What year was the first Bitcoin mined?
-</p>
 
 
 <hr style="border: 1px solid #4A90E2;">
