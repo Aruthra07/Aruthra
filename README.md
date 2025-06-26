@@ -28,7 +28,7 @@
 
 <h3 align="center">🌐 Connect with me</h3>
 <p align="center">
-  <a href="https://linkedin.com/in/aruthra manivannan" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-blue?logo=linkedin&style=for-the-badge" /></a>
+  <a href="https://linkedin.com/in/aruthra-sm-sns" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-blue?logo=linkedin&style=for-the-badge" /></a>
   <a href="https://www.leetcode.com/aruthramanivannan" target="_blank"><img src="https://img.shields.io/badge/LeetCode-orange?logo=leetcode&style=for-the-badge" /></a>
   <a href="https://discord.gg/k96XcHMW" target="_blank"><img src="https://img.shields.io/badge/Discord-purple?logo=discord&style=for-the-badge" /></a>
 </p>
